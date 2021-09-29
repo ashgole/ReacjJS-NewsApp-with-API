@@ -1,5 +1,5 @@
 ***
-#  ReacjJS-NewsApp-with-API
+#  ReacjJS NewsApp with Third Party API
 
 ***
 # About
